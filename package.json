@@ -1,0 +1,12 @@
+{
+  "name": "jsmesher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/mesher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
